@@ -68,7 +68,7 @@ namespace DBRunner.Core
             }
             else
             {
-                Console.WriteLine("Nenhum serviço de banco de dados encontrado.");
+                Console.WriteLine("Nenhum serviço de banco de dados encontrado!");
             }
         }
         public void Iniciar()
